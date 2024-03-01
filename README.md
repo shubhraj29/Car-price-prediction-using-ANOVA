@@ -1,6 +1,6 @@
 # Car-price-prediction-using-ANOVA
 
-This repository is completed by me for academic, and self learning purposes. the project comprises of exploring the features or characteristics to predict the price of the car.
+This repository completed by me is for academic, and self-learning purposes. the project comprises exploring the features or characteristics to predict the price of the car.
 
 Note: Data used in the projects is for demonstration purposes only and taken from cognitiveclass.ai
 
